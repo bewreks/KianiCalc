@@ -26,6 +26,7 @@ namespace Calculator_2
                 while (!double.TryParse(input, out value))
                 {
                     Console.WriteLine($"Введенное значение не является числом.{Environment.NewLine}");
+                    input = Console.ReadLine();
                 }
             }
             
