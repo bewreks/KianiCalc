@@ -10,10 +10,10 @@ namespace Calculator_2
     {
         List<OperationType> _operationTypes = new List<OperationType>
         {
-            new OperationType{name = "Сложение", number = 1, operation = typeof(Addition)},
+            new OperationType{name = "Сложение", number = 4, operation = typeof(Addition)},
             new OperationType{name = "Умножение", number = 2, operation = typeof(Multiply)},
             new OperationType{name = "Вычитание", number = 3, operation = typeof(Subtraction)},
-            new OperationType{name = "Деление", number = 4, operation = typeof(Division)}
+            new OperationType{name = "Деление", number = 1, operation = typeof(Division)}
         };
         
         public void GetData()
@@ -38,7 +38,8 @@ namespace Calculator_2
                 GetValue("Введите первое число:", out d_A);
                 
                 Console.Write("Выберите операцию:" + Environment.NewLine);
-                foreach (var type in _operationTypes)
+                
+                foreach (var type in _operationTypes.OrderBy(type => type.number))
                 {
                     Console.Write($"{type.number}: {type.name}{Environment.NewLine}");
                 }
