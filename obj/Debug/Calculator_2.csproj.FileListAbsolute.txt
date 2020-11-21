@@ -1,0 +1,14 @@
+C:\Users\Кристина\source\repos\Calculator_2\bin\Debug\Calculator_2.exe.config
+C:\Users\Кристина\source\repos\Calculator_2\bin\Debug\Calculator_2.exe
+C:\Users\Кристина\source\repos\Calculator_2\bin\Debug\Calculator_2.pdb
+C:\Users\Кристина\source\repos\Calculator_2\obj\Debug\Calculator_2.csprojAssemblyReference.cache
+C:\Users\Кристина\source\repos\Calculator_2\obj\Debug\Calculator_2.csproj.CoreCompileInputs.cache
+C:\Users\Кристина\source\repos\Calculator_2\obj\Debug\Calculator_2.exe
+C:\Users\Кристина\source\repos\Calculator_2\obj\Debug\Calculator_2.pdb
+C:\Users\bewreks\Downloads\Calculator_2\obj\Debug\Calculator_2.exe
+C:\Users\bewreks\Downloads\Calculator_2\obj\Debug\Calculator_2.pdb
+C:\Users\bewreks\Downloads\Calculator_2\bin\Debug\Calculator_2.exe.config
+C:\Users\bewreks\Downloads\Calculator_2\bin\Debug\Calculator_2.exe
+C:\Users\bewreks\Downloads\Calculator_2\bin\Debug\Calculator_2.pdb
+C:\Users\bewreks\Downloads\Calculator_2\obj\Debug\Calculator_2.csprojAssemblyReference.cache
+C:\Users\bewreks\Downloads\Calculator_2\obj\Debug\Calculator_2.csproj.CoreCompileInputs.cache
